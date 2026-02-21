@@ -1,2 +1,25 @@
-# Excel-Data-Skills-Analysis
-Interactive Excel dashboard analyzing top technical skills across data-related job roles using Pivot Tables, slicers, and dynamic charts.
+📊 Excel Data Skills Dashboard
+
+🔍 Key Features:
+
+Pivot Tables for dynamic aggregation
+
+Interactive slicers to filter by job title
+
+Top skills ranking visualization
+
+Automatic count of skill frequency
+
+Clean dashboard layout
+
+🛠 Tools Used:
+
+Microsoft Excel
+
+Pivot Tables
+
+Pivot Charts
+
+Slicers
+
+Data aggregation & filtering
