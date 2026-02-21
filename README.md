@@ -33,3 +33,10 @@ Pivot Charts
 Slicers
 
 Data aggregation & filtering
+
+## Learning Source
+
+This project was built as part of the course:
+
+**Microsoft Excel – Excel from Beginner to Advanced**  
+by Kyle Pew (Office Newb)
